@@ -1,7 +1,7 @@
 #include "rwmake.ch"
 
 //////////////////////////////////////////////////
-// Empresa: Afort                               //
+//                           //
 // Desenv.: Yuri                                //
 // Data:    14/10/2022                          //
 // Objetiv: Tela de alteracao parametros        //
